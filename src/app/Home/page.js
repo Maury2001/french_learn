@@ -8,7 +8,7 @@ export default function Home() {
         
         <div className=" flex w-full p-10">
         <div className="w-1/2 p-4 flex justify-center items-center">
-          <Image src={prof} className=" rounded-full" />
+          {/* <Image src={prof} className=" rounded-full" /> */}
         </div>
         <div className=" flex justify-center items-center w-1/2 p-10">
           <h2>

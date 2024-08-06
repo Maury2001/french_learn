@@ -5,7 +5,7 @@ import pers from '../../../public/images/pers.png'
 import phone from '../../../public/images/phone.png'
 import money from '../../../public/images/money.png'
 
-export default function 
+export default function Info
 () {
   return (
     <div className='grid grid-cols-8 gap-4 p-10'>
